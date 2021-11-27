@@ -1,0 +1,6 @@
+{"id":"scsmbstgra", "state":"STARTED", "type" : "Application_LOG", "host":"12345", "timestamp": "1491377495212"}
+{"id":"scsmbstgrb", "state":"STARTED", "type" : "Application_LOG", "host":"6541",  "timestamp": "1491377495213"}
+{"id":"scsmbstgrc", "state":"STARTED", "type" : "Application_LOG", "host":"7410",  "timestamp": "1491377495218"}
+{"id":"scsmbstgrb", "state":"FINISHED", "type" : "Application_LOG", "host":"9630", "timestamp": "1491377495216"}
+{"id":"scsmbstgrc", "state":"FINISHED", "type" : "Application_LOG", "host":"6542", "timestamp": "1491377495210"}
+{"id":"scsmbstgra", "state":"FINISHED","type" : "Application_LOG", "host":"7898",  "timestamp": "1491377495217"}
